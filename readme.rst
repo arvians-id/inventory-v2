@@ -80,6 +80,5 @@ Authors
 Contribute
 *******
 
-Support saya agar lebih banyak berkontribusi dalam membuat sebuah project aplikasi berbasis website sederhana
 
 - Saweria : https://saweria.co/widdyarfian
